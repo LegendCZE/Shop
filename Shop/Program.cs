@@ -32,9 +32,6 @@ class Program
         //PrintCategory(produkty);
         //PrintCategoriesBFS(produkty);
         //PrintCategoriesDFS(produkty);
-
-        // Ted uz jen pridej dalsi dve staticky metody, jedna PrintCategoriesBFS a druha PrintCategoriesDFS
-
     }
 
     static void PrintCategory(Category category)
