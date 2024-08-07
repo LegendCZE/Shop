@@ -1,0 +1,13 @@
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
